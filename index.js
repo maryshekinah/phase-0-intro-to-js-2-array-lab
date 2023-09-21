@@ -35,4 +35,4 @@ function removeFirstCat() {
   const newCats = cats.slice(1);
   return newCats;
 }
-
+//second array lab.
